@@ -37,7 +37,7 @@ The h2 db can be accessed via browser
   * Driver class `jdbc:h2:mem:testdb`
   * JDBC URL `jdbc:h2:mem:testdb`
   * username `rdfdb`
-  * password 
+  * password `pass$$word`
   
 ## Endpoint
 
